@@ -1,0 +1,17 @@
+header {
+	padding: 20px;
+	}
+body p {
+	color: green;
+}
+body section header {
+	background-color: orange;
+	text-align: right;
+}
+body header h1 {
+	font-size: 90px;
+	color: #FFC0CB;
+}
+body {
+	cursor: crosshair;
+}
